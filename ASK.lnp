@@ -1,0 +1,10 @@
+"STARTUP.obj",
+"MAIN.obj",
+"UART.obj",
+"AT_PRC.obj",
+"DELAY.obj",
+"PWM3.obj",
+"TIMER0.obj",
+"DHT11.obj" 
+TO "ASK" 
+RAMSIZE(256) 
